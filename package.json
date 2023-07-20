@@ -10,7 +10,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
-  },"homepage": "https://mariyam97.github.io/Success-React",
+  },"homepage": "https://mariyam97.github.io/Success-Video-React/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
